@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kumar/OneDrive/Desktop/mlops_engg/mlflow0/mlruns/355614747018133675/7521882c8dc24094b051649276919513/artifacts
+deleted_time: 1762778888011
+end_time: 1762778632313
+entry_point_name: ''
+experiment_id: '355614747018133675'
+lifecycle_stage: deleted
+run_id: 7521882c8dc24094b051649276919513
+run_name: salty-foal-661
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762778632173
+status: 4
+tags: []
+user_id: kumar

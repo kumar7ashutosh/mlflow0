@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/kumar/OneDrive/Desktop/mlops_engg/mlflow0/mlruns/355614747018133675/models/m-40b3e805772c421bab74e14872df63cc/artifacts
+creation_timestamp: 1762779415035
+experiment_id: '355614747018133675'
+last_updated_timestamp: 1762779450885
+model_id: m-40b3e805772c421bab74e14872df63cc
+model_type: null
+name: random forest classifier
+source_run_id: f267e4e573304a1fa732f4eeea9ff90c
+status: 2
+status_message: null

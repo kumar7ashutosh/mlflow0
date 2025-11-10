@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/kumar/OneDrive/Desktop/mlops_engg/mlflow0/mlruns/355614747018133675/951b063dffd0446c8076895102198763/artifacts
+end_time: 1762779922394
+entry_point_name: ''
+experiment_id: '355614747018133675'
+lifecycle_stage: active
+run_id: 951b063dffd0446c8076895102198763
+run_name: casual-newt-312
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762779890509
+status: 3
+tags: []
+user_id: kumar

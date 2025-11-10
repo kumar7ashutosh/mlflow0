@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/kumar/OneDrive/Desktop/mlops_engg/mlflow0/mlruns/355614747018133675/3472c26a08cc41298fe0b25df1507697/artifacts
+end_time: 1762778788780
+entry_point_name: ''
+experiment_id: '355614747018133675'
+lifecycle_stage: active
+run_id: 3472c26a08cc41298fe0b25df1507697
+run_name: stylish-bee-650
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762778788084
+status: 3
+tags: []
+user_id: kumar

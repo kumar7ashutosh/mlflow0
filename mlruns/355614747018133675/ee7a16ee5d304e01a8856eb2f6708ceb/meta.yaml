@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/kumar/OneDrive/Desktop/mlops_engg/mlflow0/mlruns/355614747018133675/ee7a16ee5d304e01a8856eb2f6708ceb/artifacts
+end_time: 1762779164127
+entry_point_name: ''
+experiment_id: '355614747018133675'
+lifecycle_stage: active
+run_id: ee7a16ee5d304e01a8856eb2f6708ceb
+run_name: ambitious-mule-213
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762779163015
+status: 3
+tags: []
+user_id: kumar
